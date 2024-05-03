@@ -1,6 +1,6 @@
 void main() {
 
-  String linguagem = "HTML";,
+  String linguagem = "HTML";
   
 switch (linguagem) {
   case "HTML":
